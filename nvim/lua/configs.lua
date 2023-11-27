@@ -8,3 +8,4 @@ opt.cursorline = true       -- Highlight current line
 opt.cursorcolumn = true     -- Highlight current cilumn
 
 opt.tabstop = 4             -- tab width
+opt.shiftwidth = 0          -- set to 0 so will use tabstop value
